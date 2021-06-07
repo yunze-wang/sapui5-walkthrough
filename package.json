@@ -1,0 +1,19 @@
+{
+  "name": "sapui5-walkthrough",
+  "version": "1.0.0",
+  "description": "sapui5 walkthrough",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunze-wang/sapui5-walkthrough.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yunze-wang/sapui5-walkthrough/issues"
+  },
+  "homepage": "https://github.com/yunze-wang/sapui5-walkthrough#readme"
+}
